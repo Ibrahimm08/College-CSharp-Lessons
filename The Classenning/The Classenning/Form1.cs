@@ -42,7 +42,7 @@ namespace The_Classenning
             }
 
             // Creat bank account object
-            BankAccount account = new BankAccount(customerName, balance);
+            account = new BankAccount(customerName, balance);
 
         }
 
