@@ -1,0 +1,12 @@
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\bin\Debug\The Classenning.exe.config
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\bin\Debug\The Classenning.exe
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\bin\Debug\The Classenning.pdb
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The Classenning.csproj.AssemblyReference.cache
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The_Classenning.Form1.resources
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The_Classenning.Properties.Resources.resources
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The Classenning.csproj.GenerateResource.cache
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The Classenning.csproj.CoreCompileInputs.cache
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The Classenning.exe
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The Classenning.pdb
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The Classenning.exe.config
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Classenning\The Classenning\obj\Debug\The_Classenning.Form2.resources
