@@ -1,0 +1,11 @@
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\bin\Debug\The Calculating.exe.config
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\bin\Debug\The Calculating.exe
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\bin\Debug\The Calculating.pdb
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\obj\Debug\The Calculating.csproj.AssemblyReference.cache
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\obj\Debug\The_Calculating.Calculator.resources
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\obj\Debug\The_Calculating.Properties.Resources.resources
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\obj\Debug\The Calculating.csproj.GenerateResource.cache
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\obj\Debug\The Calculating.csproj.CoreCompileInputs.cache
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\obj\Debug\The Calculating.exe
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\obj\Debug\The Calculating.pdb
+C:\Users\m2404024\OneDrive - Middlesbrough College\YR2\Trevor\Programing\The Calculating\The Calculating\obj\Debug\The Calculating.exe.config
