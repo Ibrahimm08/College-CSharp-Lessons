@@ -1,0 +1,39 @@
+## Visual Studio 
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+## Other files
+*.cache
+*.dbmdl
+*.bak
+*.log
+*.tlog
+
+## test results
+TestResults/
+*.coverage
+*.coveragexml
+
+## output
+publish/
+out/
+
+## temp files
+*.tmp
+*.temp
+
+## Ignore node modules (if using frontend)
+node_modules/
+
+## Ignore environment files
+.env
+.env.*
