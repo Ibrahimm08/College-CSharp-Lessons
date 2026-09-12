@@ -15,7 +15,7 @@ namespace SQLing
         private void btnAdd_Click(object sender, EventArgs e)
         {
             // Go to properties of db and copy and paste connectionString value
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"PATH_TO_DB";Integrated Security=True;Connect Timeout=30";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"PATH_TO_DB\";Integrated Security=True;Connect Timeout=30";
 
 
             SqlConnection sqlConnection = new SqlConnection(connectionString);
@@ -61,8 +61,7 @@ namespace SQLing
         {
             //Read a person record
 
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\m2404024\\OneDrive - Middlesbrough College\\YR2\\Trevor\\Programing\\SQLing\\SQLing\\PeopleDB.mdf\";Integrated Security=True;Connect Timeout=30";
-
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"PATH_TO_DB\";Integrated Security=True;Connect Timeout=30";
 
 
             SqlConnection sqlConnection = new SqlConnection(connectionString);
@@ -111,8 +110,7 @@ namespace SQLing
             //Use stored procedure to delete record(s) containing a given name
 
 
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\m2404024\\OneDrive - Middlesbrough College\\YR2\\Trevor\\Programing\\SQLing\\SQLing\\PeopleDB.mdf\";Integrated Security=True;Connect Timeout=30";
-
+             string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"PATH_TO_DB\";Integrated Security=True;Connect Timeout=30";
 
             SqlConnection sqlConnection = new SqlConnection(connectionString);
 
@@ -146,8 +144,8 @@ namespace SQLing
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\m2404024\\OneDrive - Middlesbrough College\\YR2\\Trevor\\Programing\\SQLing\\SQLing\\PeopleDB.mdf\";Integrated Security=True;Connect Timeout=30";
-
+             string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"PATH_TO_DB\";Integrated Security=True;Connect Timeout=30";
+             
             SqlConnection sqlConnection = new SqlConnection(connectionString);
 
 
